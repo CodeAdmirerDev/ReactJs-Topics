@@ -1,3 +1,8 @@
+Below is the preview of application : 
+![WhatsApp Image 2024-09-01 at 20 02 11_e88f2bdd](https://github.com/user-attachments/assets/3e175eae-5448-45d2-ae44-68c5eb01c148)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
